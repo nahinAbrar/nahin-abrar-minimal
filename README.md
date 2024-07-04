@@ -14,7 +14,7 @@ This repository contains the source code for my personal portfolio website, buil
 
 Visit the live version of the website deployed on GitHub Pages:
 
-\[https://nahinabrar.github.io/nahin-abrar-minimal/\]
+(https://nahinabrar.github.io/nahin-abrar-minimal/)
 
 **Viewing the Code:**
 
