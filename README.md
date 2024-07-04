@@ -14,21 +14,17 @@ This repository contains the source code for my personal portfolio website, buil
 
 Visit the live version of the website deployed on GitHub Pages:
 
-\[https://nahinabrar.github.io/nahin-abrar-minimal]
+\[https://nahinabrar.github.io/nahin-abrar-minimal/\]
 
 **Viewing the Code:**
 
 Clone this repository to view the code locally:
 
-`git clone https://github.com/nahinAbrar/nahin-abrar-minimal  `
+(`git clone https://github.com/nahinAbrar/nahin-abrar-minimal`)
 
 **Contributing:**
 
 This website is not currently set up for external contributions. Feel free to reach out with any suggestions or feedback!
-
-**License:**
-
-This project is licensed under the \[mention the license used, e.g., MIT License\] (see the LICENSE file for details).
 
 **Contact:**
 
